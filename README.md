@@ -1,6 +1,6 @@
 ### Hi I'm Serin!!
 
-![trophy](https://github-profile-trophy.vercel.app/?username=SRin23)
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=SRin23)-->
 ![SRin23's github stats](https://github-readme-stats.vercel.app/api?username=SRin23&show_icons=true)
 [![SRin23's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SRin23&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SRin23)
 
