@@ -1,9 +1,12 @@
 ### Hi I'm Serin!!
 
+![trophy](https://github-profile-trophy.vercel.app/?username=SRin23)
+![SRin23's github stats](https://github-readme-stats.vercel.app/api?username=SRin23&show_icons=true)
+[![SRin23's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SRin23&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SRin23)
 
-
+<!--
 <a href="https://ks-codingschool.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-Tstory-yellow?style=flat-square&logo=tstory&logoColor=white"/></a>
-
+-->
 <!--
 **SRin23/SRin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
