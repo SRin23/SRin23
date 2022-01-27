@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Serin!!
+
+
+
+<a href="https://ks-codingschool.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-Tstory-yellow?style=flat-square&logo=tstory&logoColor=white"/></a>
 
 <!--
 **SRin23/SRin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
