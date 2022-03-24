@@ -63,11 +63,12 @@
 <div align="center">
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SRin23&theme=vue)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRin23&theme=vue)](https://git.io/streak-stats)
+  [![SRin23's github stats](https://github-readme-stats.vercel.app/api?username=SRin23&count_private=true&show_icons=true&theme=vue)](https://github.com/SRin23/github-readme-stats)
   
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRin23&theme=vue)](https://git.io/streak-stats)
-[![SRin23's github stats](https://github-readme-stats.vercel.app/api?username=SRin23&count_private=true&show_icons=true&theme=vue)](https://github.com/SRin23/github-readme-stats)
+
 
 
 
