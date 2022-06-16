@@ -62,19 +62,18 @@
 <!--github profile summary card-->
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SRin23&theme=vue)
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRin23&theme=vue)](https://git.io/streak-stats)
   [![SRin23's github stats](https://github-readme-stats.vercel.app/api?username=SRin23&count_private=true&show_icons=true&theme=vue)](https://github.com/SRin23/github-readme-stats)
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SRin23&theme=vue)
   
 </div>
 
 
-
-
-
 <!--more github profile summary card-->
-<!--
-<div align="center">
+
+<!-- <div align="center">
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SRin23&theme=vue)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SRin23&theme=vue)
@@ -82,5 +81,5 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SRin23&theme=vue)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SRin23&theme=vue)
   
-</div>
--->
+</div> -->
+
